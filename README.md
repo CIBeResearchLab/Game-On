@@ -1,4 +1,4 @@
-# ![Game-On](logo.png)
+# <img src="logo.png" width="100" height="100">
 ## Game On: Grooming Black Youth for Leadership Excellence Using Video Gaming
 
 A [University of South Florida research task force](https://www.usf.edu/news/2020/usf-selects-23-research-projects-for-funding-in-anti-racism-effort.aspx) working to address racial issues and attitudes on a local, national and global scale selected 23 projects exploring a wide range of issues in systemic inequality, economic and health disparities, Black history and contemporary challenges for funding.
