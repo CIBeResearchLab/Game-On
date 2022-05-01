@@ -13,7 +13,7 @@ Black people are drastically under-represented in executive leadership positions
 
 ## Project Files
 ### Themes.zip
-Themes.zip contains seven themes derived by the research team after categorizing 3,157 codes. 
+Themes.zip contains seven themes derived by the research team after categorizing 3,157 codes. Each file is associated with a single theme (listed below), and includes the researcher's code and corresponding interviewee's quote from their interview. These files are made publicly available as resource/diary of insights gathered from 31 professional executives and/or national leaders. Interviewee quotes reflect the opinions of the interviewees.
 1. Theme 1: Defining Leadership and the Characteristics and Qualities of Leaders 
 2. Theme 2: Barriers to and Challenges in Leadership
 3. Theme 3: Learning Leadership Skills Early
